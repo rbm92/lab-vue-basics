@@ -1,0 +1,24 @@
+{
+    "cards": [
+        {
+            "id": 1,
+            "title": "Card 1",
+            "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit."
+        },
+        {
+            "id": 2,
+            "title": "Card 2",
+            "content": "Maxime similique adipisci vitae distinctio! Animi, ab eaque."
+        },
+        {
+            "id": 3,
+            "title": "Card 3",
+            "content": "Sapiente consequuntur illo, laborum officiis quam hic aut asperiores repudiandae et numquam, itaque excepturi?"
+        },
+        {
+            "id": 4,
+            "title": "Card 4",
+            "content": "Repudiandae facilis doloribus saepe ipsam libero corporis culpa eligendi quo fuga eius neque"
+        }
+    ]
+}

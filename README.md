@@ -1,19 +1,20 @@
 # lab-vue-basics
 
-## Project setup
-```
-npm install
-```
+## Author
+Ricard Bargalló
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### Iteration 1
+Setting a header and a footer
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### Iteration 2
+Generating a string by calling up a function
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Iteration 3
+Showing or hiding an HTML string
+
+### Iteration 4
+Showing a group of elements using a v-for
+Fetching data from a local database
+
+### Iteration 5
+Data binding; changing the properties of a class
